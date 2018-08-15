@@ -1,0 +1,12 @@
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\bin\Debug\timerdll.dll
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\bin\Debug\timerdll.pdb
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\obj\Debug\timerdll.csprojAssemblyReference.cache
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\obj\Debug\timerdll.csproj.CoreCompileInputs.cache
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\obj\Debug\timerdll.dll
+C:\Users\probher\Documents\Visual Studio 2017\Projects\timerdll\timerdll\obj\Debug\timerdll.pdb
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\bin\Debug\timerdll.dll
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\bin\Debug\timerdll.pdb
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\obj\Debug\timerdll.csprojAssemblyReference.cache
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\obj\Debug\timerdll.csproj.CoreCompileInputs.cache
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\obj\Debug\timerdll.dll
+C:\Users\probher\Desktop\gönderilecekler\timerdll\timerdll\obj\Debug\timerdll.pdb
